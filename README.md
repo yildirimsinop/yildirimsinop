@@ -51,4 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimsinop&layout=pie" alt="Top Langs" height="150" style="margin:10px" />
   <img src="https://github-readme-stats.vercel.app/api?username=yildirimsinop&hide=contribs,prs" alt="Anurag's GitHub stats" height="150" style="margin:10px" />
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
