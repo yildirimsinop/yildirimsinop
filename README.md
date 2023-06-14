@@ -51,4 +51,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimsinop&layout=pie" alt="Top Langs" height="150" style="margin:10px" />
   <img src="https://github-readme-stats.vercel.app/api?username=yildirimsinop&hide=contribs,prs" alt="Anurag's GitHub stats" height="150" style="margin:10px" />
 </p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yildirimsinop&show_icons=true&bg_color=00000000)
