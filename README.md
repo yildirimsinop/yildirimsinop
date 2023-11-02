@@ -1,6 +1,6 @@
 <p align="center">
   
-# Hei der 👋
+# Hei 👋
 
 # Umit Yildirim 🚀
 
