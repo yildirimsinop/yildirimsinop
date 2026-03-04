@@ -46,9 +46,3 @@
 📫 Hvordan du kan nå meg: [LinkedIn](https://www.linkedin.com/in/umit-yildirim57/)
 
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yildirimsinop&layout=pie" alt="Top Langs" height="150" style="margin:10px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=yildirimsinop&hide=contribs,prs" alt="Anurag's GitHub stats" height="150" style="margin:10px" />
-</p>
-
