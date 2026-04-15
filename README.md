@@ -13,17 +13,11 @@
 
 ---
 
-## 🚀 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma" />
 
-## ⚙️ Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,go,docker,azure,linux" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=java,go,docker,azure,linux" />
 
-## 📫 Contact
-<p align="left">
-  <a href="https://www.linkedin.com/in/umit-yildirim57">LinkedIn</a>
-</p>
+### Contact
+- [LinkedIn](https://www.linkedin.com/in/umit-yildirim57)
